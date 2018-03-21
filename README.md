@@ -2,7 +2,7 @@
 php로 구현한 웹하드 시스템입니다.
 
 # 적용방법
-## index.php에서 project의 root path를 정의해줘야 합니다.
+## config/config.php에서 project의 root path를 정의해줘야 합니다.
 
 ```htdocs/0320/```
 
